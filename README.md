@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.showwcase.com/kritanahrestha">
-    <img src="https://img.shields.io/badge/showwcase-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/showwcase-1877F2?style=for-the-badge&logo=showwcase&logoColor=white" />
 </a>
 
 </div>
