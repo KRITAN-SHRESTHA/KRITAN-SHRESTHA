@@ -35,8 +35,8 @@
 #### Talking about my personal stuff:
 
 
-- 💻 The tech I'm interested Flutter/ML etc.
-- 📱 First Live app on Play Store [https://itti.com.np]
+- 💻 I'm interested Flutter/ML etc.
+- 📱 Live app on Play Store [[ITTI] https://itti.com.np] [ [BoostUser] https://play.google.com/store/apps/details?id=app.boostuser] [ [ CarryOn] https://beta.carryondxb.com] [[ Base Coffee ] https://github.com/KRITAN-SHRESTHA/FoodStoreApp]
 - ✨ I'm learning Flutter, Machine Learning etc.
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
