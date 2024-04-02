@@ -60,17 +60,4 @@
 
 </div>
 
-<br>
 
-<summary>📝 My GitHub Stats</summary>
-<br>
-
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
-
-
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
-[medium]: https://mhmzdev.medium.com/
-[dribbble]: https://dribbble.com/mhmzdev
