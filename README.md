@@ -1,4 +1,4 @@
-### Hey there, I'm  KRITAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm SHRESTHA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -38,18 +38,6 @@
 - 💻 I'm interested Flutter/ML etc.
 - 📱 Live app on Play Store [[ITTI] https://itti.com.np] [ [BoostUser] https://play.google.com/store/apps/details?id=app.boostuser] [ [ CarryOn] https://beta.carryondxb.com] [[ Base Coffee ] https://github.com/KRITAN-SHRESTHA/FoodStoreApp]
 - ✨ I'm learning Flutter, Machine Learning etc.
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
-
-#### ✍ Medium Blog Posts
-
-<!-- MEDIUM-STORY-LIST:START -->
-- [Two Years of Social Detox as a Developer! What did I learn?](https://mhmzdev.medium.com/two-years-of-social-detox-as-a-developer-what-did-i-learn-2bfed451c434?source=rss-198dec8dcf4a------2)
-- [Flutter &amp; Monorepo — Power of Scalability](https://blog.stackademic.com/flutter-monorepo-power-of-scalability-e191a80d5293?source=rss-198dec8dcf4a------2)
-- [flutter.py | Kings on both -end](https://mhmzdev.medium.com/flutter-py-kings-on-both-end-90917c0b4c43?source=rss-198dec8dcf4a------2)
-- [Flutter3 &amp; Web3 | Metamask Integration](https://mhmzdev.medium.com/flutter3-web3-metamask-integration-838acf654276?source=rss-198dec8dcf4a------2)
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-<!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
 
@@ -63,14 +51,12 @@
 
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
-
+    
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Node-72ac5a?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 
 </div>
 
@@ -80,13 +66,6 @@
 <br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
-
-
-
-
-Open Source Contributor from <b>Pakistan<b> 💚 
-
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 
 
 [quran]: https://github.com/mhmzdev/The_Holy_Quran_App
