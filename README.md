@@ -1,4 +1,4 @@
-### Hey there, I'm  KRITAN SHRESTHA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm  KRITAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -34,13 +34,10 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested Flutter/ML/AR etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
+
+- 💻 The tech I'm interested Flutter/ML etc.
+- 📱 First Live app on Play Store [https://itti.com.np]
+- ✨ I'm learning Flutter, Machine Learning etc.
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
 
