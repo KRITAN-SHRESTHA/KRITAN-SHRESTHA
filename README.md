@@ -36,7 +36,8 @@ I enjoy learning and applying my knowledge to develop original solutions, thus I
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://example.com/path/to/dart_logo.svg" height="25" alt="docker logo" />
+ <img src="https://example.com/path/to/dart_logo.svg" height="25" alt="Dart logo">
+
 </div>
 
 <h3>GitHub Stats</h3>
