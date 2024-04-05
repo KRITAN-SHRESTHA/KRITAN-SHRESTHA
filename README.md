@@ -1,6 +1,6 @@
 <img align="right" alt="" height="300px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hi%C3%1%2C+I+am+KRITAN+SHRESTHA!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hi+I+am+KRITAN+SHRESTHA!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
 <p align="left">I am currently a Flutter Developer at Fatdog Agency Nepal and had 1.5 years of experience in Mobile App Development, 
