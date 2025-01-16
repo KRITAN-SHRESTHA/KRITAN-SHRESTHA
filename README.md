@@ -16,8 +16,6 @@ I am a dedicated Flutter developer with 2 years of hands-on experience in buildi
 
 <h3 align="left">My Stack</h3>
 <div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="25" alt="excel logo" />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
@@ -27,8 +25,6 @@ I am a dedicated Flutter developer with 2 years of hands-on experience in buildi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="sql logo" />
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="25" alt="power bi logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="25" alt="tableau logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo" />
   <img width="8" />
