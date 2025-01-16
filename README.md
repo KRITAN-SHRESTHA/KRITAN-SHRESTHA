@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hi+I+am+KRITAN+SHRESTHA!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
-<p align="left">I am currently a Flutter Developer at Fatdog Agency Nepal and had 1.5 years of experience in Mobile App Development, 
-I'm interested in Machine Learning.
-I enjoy learning and applying my knowledge to develop original solutions, thus I continuously study and stay up to date in the field of technology!
-
+<p align="left">I am a dedicated Flutter developer with 2 years of hands-on experience in building efficient and user-friendly mobile applications. Currently, I am pursuing a Master's in Data Analytics at Niagara Falls University, Canada, to broaden my expertise in deriving insights from data and applying analytics to solve real-world problems. My passion lies in technology, problem-solving, and leveraging data to drive impactful decisions. Open to collaboration and growth opportunities in tech and analytics.
 
 <h3 align="left">Connect with me!</h3>
 
