@@ -9,10 +9,10 @@ I am a dedicated Flutter developer with 2 years of hands-on experience in buildi
 
 <h3 align="left">Connect with me!</h3>
 
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:officalkritanshrestha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kritan-shrestha-183835330/)
 
----
 
 <h3 align="left">My Stack</h3>
 <div align="left"> 
