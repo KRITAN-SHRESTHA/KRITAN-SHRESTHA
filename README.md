@@ -1,41 +1,85 @@
-<img align="right" alt="" height="300px">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hi+I+am+KRITAN+SHRESTHA!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Kritan%20Shrestha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20MSc%20Data%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-🎓 **MSc Data Analytics** — University of Niagara Falls, Canada  
-💼 **Data Analyst** | Ex-Analyst Intern @ Roamlii Adventures Inc.  
-🔍 Passionate about turning raw data into actionable insights  
-🛠️ Python · R · SQL · Power BI · Machine Learning · Data Visualization  
-🌱 Currently exploring **ML pipelines** and **predictive analytics**  
-🤝 Open to collaboration on data analytics & data science projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&random=false&width=500&lines=Turning+data+into+decisions+%F0%9F%93%8A;Python+%7C+R+%7C+SQL+%7C+Power+BI;Open+to+Data+Analytics+opportunities)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### Connect with me!
+## 👤 About Me
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:officalkritanshrestha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/kritan-shrestha-183835330/)
+I am a **Data Analyst** with a background in software development, currently completing my **Master of Science in Data Analytics** at the University of Niagara Falls, Canada. I have hands-on experience from my data analytics internship at **Roamlii Adventures Inc.**, where I applied data-driven approaches to real business problems.
 
----
+My expertise spans the full analytics pipeline — from data collection and wrangling to statistical modelling, visualization, and communicating insights to stakeholders. I am passionate about building solutions that turn complex datasets into clear, actionable decisions.
 
-### 🛠️ My Stack
-
-#### 📊 Data & Analytics
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="sql" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30" alt="powerbi" />
-
-#### 💻 Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
+- 🎓 **MSc Data Analytics** — University of Niagara Falls, Canada
+- 💼 **Ex-Data Analyst Intern** — Roamlii Adventures Inc.
+- 🔭 Currently working on **predictive analytics & ML pipelines**
+- 🌱 Deepening expertise in **time series forecasting** and **NLP**
+- 🤝 Open to collaboration on **data analytics & data science projects**
+- 📫 Reach me at **officalkritanshrestha@gmail.com**
 
 ---
 
-### 📈 GitHub Status
+## 🔗 Connect
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRITAN-SHRESTHA&show_icons=true&theme=tokyonight)](https://github.com/KRITAN-SHRESTHA)
+<div align="center">
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KRITAN-SHRESTHA&layout=compact&theme=tokyonight)](https://github.com/KRITAN-SHRESTHA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritan-shrestha-183835330/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officalkritanshrestha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shresthakritibahadur.com.np/)
+
+</div>
 
 ---
 
-✨ *Driven by data. Powered by curiosity. Let's build impactful solutions together! 🚀*
+## 🛠️ Tech Stack
+
+**Analytics & Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Libraries & Frameworks**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Development**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KRITAN-SHRESTHA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/KRITAN-SHRESTHA)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KRITAN-SHRESTHA&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/KRITAN-SHRESTHA)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KRITAN-SHRESTHA&theme=tokyonight&hide_border=true)](https://github.com/KRITAN-SHRESTHA)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
+
+![Profile Views](https://komarev.com/ghpvc/?username=KRITAN-SHRESTHA&color=2575fc&style=flat-square&label=Profile+Views)
+
+</div>
