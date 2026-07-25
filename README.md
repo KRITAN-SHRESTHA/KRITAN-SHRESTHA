@@ -4,11 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&random=false&width=600&lines=Building+cross-platform+apps+with+Flutter+%F0%9F%93%B1;Turning+data+into+decisions+%F0%9F%93%8A;Dart+%7C+Flutter+%7C+Python+%7C+SQL+%7C+Power+BI;Open+to+Flutter+%26+Data+Analytics+opportunities)](https://git.io/typing-svg)
 
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO-Paid%20Internship%20%7C%20Contract%20Work%20%7C%20Full--time%20Roles-00C853?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=000000)](mailto:kritanshrestha577@gmail.com)
+
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
 I am a **Flutter Developer** with **2+ years of hands-on experience** building cross-platform mobile applications, paired with a **Master of Science in Data Analytics** at the University of Niagara Falls, Canada. This combination lets me build apps that are well-engineered and backed by data-driven thinking.
 
@@ -21,6 +23,7 @@ My expertise spans building performant, scalable Flutter apps as well as the ful
 - 💼 **Ex-Data Analyst Intern** — Roamlii Adventures Inc.
 - 🔭 Currently building production Flutter apps & predictive analytics/ML pipelines
 - 🌱 Deepening expertise in **Bloc/Riverpod**, **Firebase**, **CI/CD for Flutter**, time series forecasting & NLP
+- 🟢 **Open to Paid Internship, Contract Work & Full-time opportunities**
 - 🤝 Open to collaboration on **Flutter app development** & **data analytics** projects
 - 📫 Reach me at **kritanshrestha577@gmail.com**
 
