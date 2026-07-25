@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Kritan%20Shrestha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20MSc%20Data%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Kritan%20Shrestha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Data%20Analytics%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&random=false&width=500&lines=Turning+data+into+decisions+%F0%9F%93%8A;Python+%7C+R+%7C+SQL+%7C+Power+BI;Open+to+Data+Analytics+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&random=false&width=600&lines=Building+cross-platform+apps+with+Flutter+%F0%9F%93%B1;Turning+data+into+decisions+%F0%9F%93%8A;Dart+%7C+Flutter+%7C+Python+%7C+SQL+%7C+Power+BI;Open+to+Flutter+%26+Data+Analytics+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,15 +10,18 @@
 
 ## 👤 About Me
 
-I am a **Data Analyst** with a background in software development, currently completing my **Master of Science in Data Analytics** at the University of Niagara Falls, Canada. I have hands-on experience from my data analytics internship at **Roamlii Adventures Inc.**, where I applied data-driven approaches to real business problems.
+I am a **Flutter Developer** with **2+ years of hands-on experience** building cross-platform mobile applications, paired with a **Master of Science in Data Analytics** at the University of Niagara Falls, Canada. This combination lets me build apps that are well-engineered and backed by data-driven thinking.
 
-My expertise spans the full analytics pipeline — from data collection and wrangling to statistical modelling, visualization, and communicating insights to stakeholders. I am passionate about building solutions that turn complex datasets into clear, actionable decisions.
+I've delivered production-ready Flutter apps end-to-end — UI/UX implementation, state management, routing, API integration, and deployment — and I also have hands-on experience from my data analytics internship at **Roamlii Adventures Inc.**, where I applied data-driven approaches to real business problems.
 
+My expertise spans building performant, scalable Flutter apps as well as the full analytics pipeline — from data collection and wrangling to statistical modelling, visualization, and communicating insights to stakeholders.
+
+- 📱 **2+ years** of experience as a **Flutter Developer** building cross-platform Android & iOS apps
 - 🎓 **MSc Data Analytics** — University of Niagara Falls, Canada
 - 💼 **Ex-Data Analyst Intern** — Roamlii Adventures Inc.
-- 🔭 Currently working on **predictive analytics & ML pipelines**
-- 🌱 Deepening expertise in **time series forecasting** and **NLP**
-- 🤝 Open to collaboration on **data analytics & data science projects**
+- 🔭 Currently building production Flutter apps & predictive analytics/ML pipelines
+- 🌱 Deepening expertise in **Bloc/Riverpod**, **Firebase**, **CI/CD for Flutter**, time series forecasting & NLP
+- 🤝 Open to collaboration on **Flutter app development** & **data analytics** projects
 - 📫 Reach me at **kritanshrestha577@gmail.com**
 
 ---
@@ -37,7 +40,23 @@ My expertise spans the full analytics pipeline — from data collection and wran
 
 ## 🛠️ Tech Stack
 
-**Analytics & Data Science**
+**📱 Mobile App Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![AutoRoute](https://img.shields.io/badge/AutoRoute-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=flat-square&logo=hive&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+**📊 Analytics & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -46,7 +65,7 @@ My expertise spans the full analytics pipeline — from data collection and wran
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Libraries & Frameworks**
+**📚 Libraries & Frameworks**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -54,13 +73,15 @@ My expertise spans the full analytics pipeline — from data collection and wran
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Development**
+**🧰 Tools & Others**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -78,7 +99,7 @@ My expertise spans the full analytics pipeline — from data collection and wran
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion." — W. Edwards Deming*
+*"Great apps are built with clean code. Great decisions are built with clean data."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KRITAN-SHRESTHA&color=2575fc&style=flat-square&label=Profile+Views)
 
