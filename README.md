@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a **Flutter Developer** with **2+ years of hands-on experience** building cross-platform mobile applications, paired with a **Master of Science in Data Analytics** at the University of Niagara Falls, Canada. This combination lets me build apps that are well-engineered and backed by data-driven thinking.
+I am a **Flutter Developer** with **4+ years of hands-on experience** building cross-platform mobile applications, paired with a **Master of Science in Data Analytics** at the University of Niagara Falls, Canada. This combination lets me build apps that are well-engineered and backed by data-driven thinking.
 
 I've delivered production-ready Flutter apps end-to-end — UI/UX implementation, state management, routing, API integration, and deployment — and I also have hands-on experience from my data analytics internship at **Roamlii Adventures Inc.**, where I applied data-driven approaches to real business problems.
 
